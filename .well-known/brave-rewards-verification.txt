@@ -1,4 +1,4 @@
 This is a Brave Rewards publisher verification file.
 
 Domain: lifestylemaniacs.com
-Token: bcc55705d7f738ebf2aa081efa8166fdd14b28dcafb93355fd25cd9618cc1ee9
+Token: 9e3cf78fbe4dbdbab41c3bae430dbabe43c504c6951789dfa8ab752c906d2858
