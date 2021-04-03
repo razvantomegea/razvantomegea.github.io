@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: bodytrack.dev
+Token: 72a5c4e3477b050443393e4deab768c06a4fb7cfc8b05672afb15e843758ab6d
